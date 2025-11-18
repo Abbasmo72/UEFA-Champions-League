@@ -1,7 +1,7 @@
 For Persian version, click [here](Persian.md).
 <hr>
 
-# UEFA-Champions-League Results ⚽
+# UEFA Champions League Results ⚽
 
 📊 Project Overview
 This project provides data analysis, visualization, and statistical insights related to the UEFA Champions League.
