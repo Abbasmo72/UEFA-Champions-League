@@ -20,7 +20,18 @@ This isn’t just a data dump—it’s a celebration of football and community!
 
 ## Repository Structure 🗂️
 Here’s a breakdown of what you’ll find inside:
-- **`Team Info`**: Team info includes the name, home stadium, manager, and final position in the league table.  
+- **`Team`**: The labels in the parentheses show how each team qualified for the place of its starting round:
+
+  - TH: Champions League title holders
+  - EL: Europa League title holders 1st, 2nd, 3rd, 4th, etc.: League positions     of the previous season
+  - EPS: European Performance Spots – the additional berths given to clubs         from the two associations with the highest coefficient points in 2024–25
+    <br>
+
+    
+The label of European Performance Spots and title holders already qualified via league position are superscripted.
+
+The second qualifying round, third qualifying round and play-off round are divided into Champions Path (CH) and League Path (LP).
+
 - **`Personnel Kits Info`**: Personnel and kits info includes coaches, technical staff, and the design of home and away kits.  
 - **`LeagueTable`**: The league table shows the teams’ positions based on points, goal difference, and number of wins. 
 - **`Results`**: The results of each week reflect the teams' performances in home and away matches.  
