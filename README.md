@@ -3,7 +3,11 @@ For Persian version, click [here](Persian.md).
 
 # UEFA Champions League Results ⚽
 
-Hey there, and welcome to this awesome repository! 🎉 This is the place where we gather and share the latest, most exciting results from the **English Premier League (Premier League)**. Whether you’re a football fanatic, a data nerd, or just curious about how your favorite team is doing, you’ve come to the right spot! 😍
+The UEFA Champions League is the most prestigious club football competition in Europe, organized annually by the Union of European Football Associations (UEFA). It brings together the top teams from Europe’s national leagues to compete for the title of the best club in Europe.
+
+The tournament begins with a group stage, followed by knockout rounds, and concludes with the final match. The winner not only earns the iconic trophy but also qualifies for the UEFA Super Cup and the FIFA Club World Cup.
+
+Clubs such as Real Madrid, Barcelona, Bayern Munich, Liverpool, and AC Milan are among the most successful in the history of the competition. 😍
 
 ----
 
