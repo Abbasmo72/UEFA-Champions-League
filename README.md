@@ -51,15 +51,15 @@ Here’s a little sneak peek of what the data might look like:
 
 ## Updates 📅
 We try to update the data after each game week.
-Last updated: May 14, 2025.
+Last updated: Nov 18, 2025.
 If we missed anything, let us know! ⏳
 
 ---
 
 ## Resources & More Info 🌐
 Here’s where we get our info:
-- [Persian Wikipedia - Premier League](https://fa.wikipedia.org/wiki/%D9%84%DB%8C%DA%AF_%D8%A8%D8%B1%D8%AA%D8%B1_%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84_%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86)  
-- [Official Premier League Website](https://www.premierleague.com/)  
+- [English Wikipedia - UEFA Champions League](https://en.wikipedia.org/wiki/UEFA_Champions_League)  
+- [Official UEFA Champions League Website](https://www.uefa.com/uefachampionsleague/)  
 - More sources will be added here as we go! 🔗  
 
 Want more stats or details? Check those links or suggest new ones!
