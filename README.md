@@ -1,7 +1,7 @@
 For Persian version, click [here](Persian.md).
 <hr>
 
-# ⚽ UEFA Champions League Analysis
+# ⚽ UEFA Champions League 
 
 ### 📊 Project Overview
 This project provides **data analysis, visualization, and statistics** related to the **UEFA Champions League**.  
