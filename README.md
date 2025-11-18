@@ -30,7 +30,7 @@ Here’s a breakdown of what you’ll find inside:
   
 The second qualifying round, third qualifying round and play-off round were divided into Champions Path (CH) and League Path (LP).
 
-- **`Personnel Kits Info`**: Personnel and kits info includes coaches, technical staff, and the design of home and away kits.  
+- **`Group`**: The teams are divided into several groups, and two teams from each group advance to the next stage.  
 - **`LeagueTable`**: The league table shows the teams’ positions based on points, goal difference, and number of wins. 
 - **`Results`**: The results of each week reflect the teams' performances in home and away matches.  
 - **`Top Scorers Goals`**: Top scorers’ goals play a crucial role in their teams’ success and in deciding the league champion.
