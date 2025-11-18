@@ -1,7 +1,7 @@
 For Persian version, click [here](Persian.md).
 <hr>
 
-# English Premier League Results ⚽
+# UEFA Champions League Results ⚽
 
 Hey there, and welcome to this awesome repository! 🎉 This is the place where we gather and share the latest, most exciting results from the **English Premier League (Premier League)**. Whether you’re a football fanatic, a data nerd, or just curious about how your favorite team is doing, you’ve come to the right spot! 😍
 
