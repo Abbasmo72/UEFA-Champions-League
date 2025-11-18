@@ -15,7 +15,7 @@ The Premier League is one of the most prestigious and thrilling football leagues
 - Create a reliable source for football data 🏆  
 - Keep fans in the loop with the latest updates! ⏰  
 
-We pull data from trusted sources like the [Persian Wikipedia page on the Premier League](https://en.wikipedia.org/wiki/Premier_League) and official websites, then organize it in a clean, easy-to-use format.
+We pull data from trusted sources like the [Persian Wikipedia page on the UEFA Champions League (https://en.wikipedia.org/wiki/UEFA_Champions_League) and official websites, then organize it in a clean, easy-to-use format.
 
 ---
 
