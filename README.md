@@ -10,12 +10,7 @@ It explores the performance of clubs, players, and match outcomes across differe
 ----
 
 ## About This Project 🌟
-The Premier League is one of the most prestigious and thrilling football leagues in the world. From Manchester City to Liverpool, Arsenal to Chelsea, we’ve got all the action covered! Our mission here is to:
-- Provide accurate and up-to-date match results 📊  
-- Create a reliable source for football data 🏆  
-- Keep fans in the loop with the latest updates! ⏰  
 
-We pull data from trusted sources like the [Persian Wikipedia page on the UEFA Champions League (https://en.wikipedia.org/wiki/UEFA_Champions_League) and official websites, then organize it in a clean, easy-to-use format.
 
 ---
 
