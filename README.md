@@ -36,7 +36,7 @@ The second qualifying round, third qualifying round and play-off round were divi
 - **`Semi finals`**: Semi-finals: The remaining 4 teams will play to reach the final.
 - **`Final`**: The final two teams will play to determine the champion.
 - **`Top goalscorers`**: The top scorers of this competition.
-- **`Clean Sheets`**: Clean sheets are a sign of excellent goalkeeper performance and the team’s defense in preventing opponent goals.
+- **`Team of the Season`**: The UEFA technical study group selected the following players as the team of the tournament.
 - **`Monthly awards`**: Monthly awards are given to players who have shown outstanding performance throughout the month.
 - **`Annual Awards`**: Annual awards are presented to the best players, managers, and teams at the end of the league season.
 - **`PFA Team of the Year`**: The PFA Team of the Year consists of the best players from each position who have had outstanding performances throughout the season.
