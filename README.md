@@ -35,7 +35,7 @@ The second qualifying round, third qualifying round and play-off round were divi
 - **`Quarter finals`**: It will be held after stage 1-16.  
 - **`Semi finals`**: Semi-finals: The remaining 4 teams will play to reach the final.
 - **`Final`**: The final two teams will play to determine the champion.
-- **`Top Scorers Assists`**: Top scorers’ assists show that they are not only goal scorers but also key players in building team attacks.
+- **`Top goalscorers`**: The top scorers of this competition.
 - **`Clean Sheets`**: Clean sheets are a sign of excellent goalkeeper performance and the team’s defense in preventing opponent goals.
 - **`Monthly awards`**: Monthly awards are given to players who have shown outstanding performance throughout the month.
 - **`Annual Awards`**: Annual awards are presented to the best players, managers, and teams at the end of the league season.
