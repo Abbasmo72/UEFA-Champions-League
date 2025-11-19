@@ -43,7 +43,7 @@ The second qualifying round, third qualifying round and play-off round were divi
 - **`First qualifying round`**: First qualifying round of current teams.
 - **`Second qualifying round`**: Second qualifying round of the teams participating in the competition.
 - **`Third qualifying round`**: The third qualifying round of the teams participating in this competition.
-- **`Attendances`**: Attendances at each match reflect the passion and excitement of fans towards their teams.
+- **`Play-off round`**: Playoff round of the teams currently in this competition.
 - **`Attendances`**: Attendances at each match reflect the passion and excitement of fans towards their teams.
   
 Each folder has its own details, so feel free to explore!
