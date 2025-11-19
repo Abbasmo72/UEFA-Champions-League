@@ -39,7 +39,7 @@ The second qualifying round, third qualifying round and play-off round were divi
 - **`Team of the Season`**: The UEFA technical study group selected the following players as the team of the tournament.
 - **`Draw round dates`**: Dates of the first and second round of the draw that teams must hold.
 - **`Distribution`**: Distribution of teams participating in these competitions and how they advance.
-- **`PFA Team of the Year`**: The PFA Team of the Year consists of the best players from each position who have had outstanding performances throughout the season.
+- **`Schedule`**: Competition schedule.
 - **`Attendances`**: Attendances at each match reflect the passion and excitement of fans towards their teams.
   
 Each folder has its own details, so feel free to explore!
