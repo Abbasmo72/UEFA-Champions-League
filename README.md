@@ -48,7 +48,7 @@ The second qualifying round, third qualifying round and play-off round were divi
 - **`Results Matchday Day `**: Competition results day which includes 8 days.
 - **`Bracket`**: Team bracket after group stage.
 - **`Knockout phase play-offs`**: The draw for the knockout phase play-offs was held on 31 January 2025, 12:00 CET. The first legs were played on 11 and 12 February, and the second legs were played on 18 and 19 February 2025.
-- **`Attendances`**: Attendances at each match reflect the passion and excitement of fans towards their teams.
+
   
 Each folder has its own details, so feel free to explore!
 
