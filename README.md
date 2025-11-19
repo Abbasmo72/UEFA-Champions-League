@@ -31,7 +31,7 @@ Here’s a breakdown of what you’ll find inside:
 The second qualifying round, third qualifying round and play-off round were divided into Champions Path (CH) and League Path (LP).
 
 - **`Group`**: The teams are divided into several groups, and two teams from each group advance to the next stage.  
-- **`LeagueTable`**: The league table shows the teams’ positions based on points, goal difference, and number of wins. 
+- **`Round of 16`**: The round of 16 will take place after the group stage. 
 - **`Results`**: The results of each week reflect the teams' performances in home and away matches.  
 - **`Top Scorers Goals`**: Top scorers’ goals play a crucial role in their teams’ success and in deciding the league champion.
 - **`Top Scorers Hat-tricks`**: Top scorers' hat-tricks highlight their exceptional ability to change the outcome of matches.
