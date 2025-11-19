@@ -37,7 +37,7 @@ The second qualifying round, third qualifying round and play-off round were divi
 - **`Final`**: The final two teams will play to determine the champion.
 - **`Top goalscorers`**: The top scorers of this competition.
 - **`Team of the Season`**: The UEFA technical study group selected the following players as the team of the tournament.
-- **`Monthly awards`**: Monthly awards are given to players who have shown outstanding performance throughout the month.
+- **`Draw round dates`**: Dates of the first and second round of the draw that teams must hold.
 - **`Annual Awards`**: Annual awards are presented to the best players, managers, and teams at the end of the league season.
 - **`PFA Team of the Year`**: The PFA Team of the Year consists of the best players from each position who have had outstanding performances throughout the season.
 - **`Attendances`**: Attendances at each match reflect the passion and excitement of fans towards their teams.
