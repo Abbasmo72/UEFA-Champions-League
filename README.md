@@ -34,7 +34,7 @@ The second qualifying round, third qualifying round and play-off round were divi
 - **`Round of 16`**: The round of 16 will take place after the group stage. 
 - **`Quarter finals`**: It will be held after stage 1-16.  
 - **`Semi finals`**: Semi-finals: The remaining 4 teams will play to reach the final.
-- **`Top Scorers Hat-tricks`**: Top scorers' hat-tricks highlight their exceptional ability to change the outcome of matches.
+- **`Final`**: The final two teams will play to determine the champion.
 - **`Top Scorers Assists`**: Top scorers’ assists show that they are not only goal scorers but also key players in building team attacks.
 - **`Clean Sheets`**: Clean sheets are a sign of excellent goalkeeper performance and the team’s defense in preventing opponent goals.
 - **`Monthly awards`**: Monthly awards are given to players who have shown outstanding performance throughout the month.
