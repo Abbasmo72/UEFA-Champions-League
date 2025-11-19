@@ -44,6 +44,10 @@ The second qualifying round, third qualifying round and play-off round were divi
 - **`Second qualifying round`**: Second qualifying round of the teams participating in the competition.
 - **`Third qualifying round`**: The third qualifying round of the teams participating in this competition.
 - **`Play-off round`**: Playoff round of the teams currently in this competition.
+- **`Table from 2024-2025 onwards`**: The top eight ranked teams received a bye to the round of 16. The teams ranked from 9th to 24th contested the knockout phase play-offs, with the   teams ranked from 9th to 16th seeded for the draw. Teams ranked from 25th to 36th were eliminated from all competitions, with no access to the 2024–25 UEFA Europa League.
+- **`Attendances`**: Attendances at each match reflect the passion and excitement of fans towards their teams.
+- **`Attendances`**: Attendances at each match reflect the passion and excitement of fans towards their teams.
+- **`Attendances`**: Attendances at each match reflect the passion and excitement of fans towards their teams.
 - **`Attendances`**: Attendances at each match reflect the passion and excitement of fans towards their teams.
   
 Each folder has its own details, so feel free to explore!
